@@ -1,9 +1,10 @@
-Template for the Read the Docs tutorial
+Small Visual Basic
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This GitHub includes the language reference book for the Small visual Basic, an
+educational programming language, created by Eng. Mohammad Hamdy as an evolved 
+version of Microsoft Small Basic (SB).
 
-Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+
+
